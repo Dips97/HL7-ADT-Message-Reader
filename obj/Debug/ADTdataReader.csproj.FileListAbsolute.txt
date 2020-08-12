@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ADTdataReader\bin\Debug\ADTdataReader.exe.config
+C:\Users\LENOVO\source\repos\ADTdataReader\bin\Debug\ADTdataReader.exe
+C:\Users\LENOVO\source\repos\ADTdataReader\bin\Debug\ADTdataReader.pdb
+C:\Users\LENOVO\source\repos\ADTdataReader\obj\Debug\ADTdataReader.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\ADTdataReader\obj\Debug\ADTdataReader.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ADTdataReader\obj\Debug\ADTdataReader.exe
+C:\Users\LENOVO\source\repos\ADTdataReader\obj\Debug\ADTdataReader.pdb
+C:\Users\Dipak\source\repos\ADTdataReader\bin\Debug\ADTdataReader.exe.config
+C:\Users\Dipak\source\repos\ADTdataReader\bin\Debug\ADTdataReader.exe
+C:\Users\Dipak\source\repos\ADTdataReader\bin\Debug\ADTdataReader.pdb
+C:\Users\Dipak\source\repos\ADTdataReader\obj\Debug\ADTdataReader.csprojAssemblyReference.cache
+C:\Users\Dipak\source\repos\ADTdataReader\obj\Debug\ADTdataReader.csproj.CoreCompileInputs.cache
+C:\Users\Dipak\source\repos\ADTdataReader\obj\Debug\ADTdataReader.exe
+C:\Users\Dipak\source\repos\ADTdataReader\obj\Debug\ADTdataReader.pdb
